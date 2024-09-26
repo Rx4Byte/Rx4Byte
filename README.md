@@ -14,27 +14,22 @@
 😄 My work might be a bit unconventional, but im happy if u enjoing my work and if u want, u can support me <3  
 
 🎮 Right now, most of my time I'm focusing on learning C++ and game development, as I'm excited to create my own games!
+ ​ ​ ​ 
+  ​ ​ ​ 
+## 🔭 I’m currently working on:
+Way too much! 😄 Most of my projects serve as a way to learn and improve my coding skills and language knowledge, especially in C++.
+ ​ ​ ​ 
+  ​ ​ ​ 
+## 🌱 I’m Currently Learning:
+I’ve just started diving into C++ and exploring various aspects of game development because I have a strong interest in creating games, especially my own. I enjoy focusing on game mechanics, design principles, and other foundational elements, although graphic design isn’t something I’m interested in. Every new skill I acquire boosts my creativity and helps me build engaging, immersive experiences. Overall, I’m passionate about expanding my skills and developing innovative projects!
 
 
-### 📫 How to Reach Me:
-I’m currently only reachable through Discord, so feel free to message and/or add me there!  
-* **[user/Rx4Byte](https://discordapp.com/users/1094084123020247050)** ​ ​ ​or ​ ​ **​[user/Rxnesh](https://discordapp.com/users/568808802913091596)**
-* **[server/Rx Code](https://discord.gg/4UYxn9nGvH)** –  it’s primarily for coding discussions, questions and modding projects I’m releasing.  
-                                                     _the server still needs some work and is quite basic at the moment._
-
-### 💬 Ask Me About:
+## 💬 Ask Me About:
 Anything and everything! Seriously, feel free to throw your questions my way—whether it’s coding challenges, game design ideas, or even my favorite snack. I’m open to chat and share insights, so feel free to reach out! 😄✨
 
 
-### 🔭 I’m currently working on:
-Way too much! 😄 Most of my projects serve as a way to learn and improve my coding skills and language knowledge, especially in C++.
-
-
-### 🌱 I’m Currently Learning:
-I’ve just started diving into C++ and exploring various aspects of game development because I have a strong interest in creating games, especially my own. I enjoy focusing on game mechanics, design principles, and other foundational elements, although graphic design isn’t something I’m interested in. Every new skill I acquire boosts my creativity and helps me build engaging, immersive experiences. Overall, I’m passionate about expanding my skills and developing innovative projects!
-
 <!-- 👯 I’m looking to collaborate on -->
-### 🤔 I’m looking for help or collaboration with: ​ ​ ​ > ​ ​ ​everyone
+## 🤔 I’m looking for help or collaboration with: ​ ​ ​ > ​ ​ ​everyone
 I always appreciate help and collaboration!  
 Whether it’s brainstorming ideas, tackling challenges, or sharing insights, I believe that teamwork can lead to amazing results.
  
@@ -46,7 +41,15 @@ Together, we can create something great! <3
 Just a heads up, there may be times when I’m not as interested, and I apologize in advance if that happens.  
 Wishing you good luck and lots of fun!  
 
-### My Language Toolbelt (in the order I used/"learned" them):
+
+## 📫 How to Reach Me:
+I’m currently only reachable through Discord, so feel free to message and/or add me there!  
+* **[user/Rx4Byte](https://discordapp.com/users/1094084123020247050)** ​ ​ ​or ​ ​ **​[user/Rxnesh](https://discordapp.com/users/568808802913091596)**
+* **[server/Rx Code](https://discord.gg/4UYxn9nGvH)** –  it’s primarily for coding discussions, questions and modding projects I’m releasing.  
+                                                     _the server still needs some work and is quite basic at the moment._
+
+
+## My Language Toolbelt (in the order I used/"learned" them):
 * **Assembly**  
     I started with cheat-engine assembly scripting (creating CE tables), where I discovered my interest in reverse engineering programs and games.  
     Making cheat tables is one of my hobbies! 🛠️
@@ -65,8 +68,8 @@ Wishing you good luck and lots of fun!
     My favorite language so far! I just started learning it a few weeks ago. 🚀✨
 
 
-## Thoughts & Reflections
-### Quotes, Statements
+# Thoughts & Reflections
+### Quotes, Statements:
 **I’m Not a Philosopher, But These Statements Ring True:**
 * Don’t just know things; it’s important to understand them as well!
 * An idea is just the beginning. From it, you create a vision, and then you must take action!
@@ -88,7 +91,7 @@ So, if I may be inactive for a while, please be patient.
 I will never disappear while I’m alive; I love what I do; I just need a break sometimes.
 
 
-### ⚡ Fun Fact:
+## ⚡ Fun Fact:
 I’ve written enough lines of code to fill a book, but my to-do list is still longer than my code! 😄
 
 
