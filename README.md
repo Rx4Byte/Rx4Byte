@@ -65,7 +65,7 @@ Together, we can create something great! <3
     My favorite language so far! I just started learning it a few weeks ago. 🚀✨
 
 
-## out of context
+## Thoughts & Reflections
 ### Quotes, Statements
 **I’m Not a Philosopher, But These Statements Ring True:**
 * Don’t just know things; it’s important to understand them as well!
