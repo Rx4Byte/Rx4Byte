@@ -9,6 +9,7 @@
 🚀 I thrive on challenges and love pushing my limits and to experiment.  
 
 🔧 Check out my public repositories to see what I'm working on!  
+ ​ ​ ​  ​ ​ ​ _(Please note that many of my projects are currently private, but this will change in the future.)_
 
 😄 My work might be a bit unconventional, but im happy if u enjoing my work and if u want, u can support me <3  
 
