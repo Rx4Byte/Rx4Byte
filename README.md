@@ -15,8 +15,6 @@
 
 🎮 Right now, most of my time I'm focusing on learning C++ and game development, as I'm excited to create my own games!
 
-If you're still interested in collaborating, feel free to reach out—I’m always open to new ideas and projects!  
-Just a heads up, there may be times when I’m not as interested, and I apologize in advance if that happens. Wishing you good luck and lots of fun!
 
 ### 📫 How to Reach Me:
 I’m currently only reachable through Discord, so feel free to message and/or add me there!  
@@ -37,15 +35,16 @@ I’ve just started diving into C++ and exploring various aspects of game develo
 
 <!-- 👯 I’m looking to collaborate on -->
 ### 🤔 I’m looking for help or collaboration with: ​ ​ ​ > ​ ​ ​everyone
-I always appreciate help and collaboration! Whether it’s brainstorming ideas, tackling challenges, or sharing insights, I believe that teamwork can lead to amazing results.  
-
-I’ll always appreciate feedback, as it helps me grow and improve!  
+I always appreciate help and collaboration!  
+Whether it’s brainstorming ideas, tackling challenges, or sharing insights, I believe that teamwork can lead to amazing results.
+ 
 Even if I’m not the best at working with others, I’ll always try my best!  
-However, my effectiveness tends to decrease significantly when I’m not alone or when I’m in social situations.
-
+However, my effectiveness tends to decrease significantly when I’m not alone or when I’m in social situations.  
 If you’re still interested in collaborating or have any suggestions, I’d love to hear from you!  
-Together, we can create something great! <3
+Together, we can create something great! <3  
 
+Just a heads up, there may be times when I’m not as interested, and I apologize in advance if that happens.  
+Wishing you good luck and lots of fun!  
 
 ### My Language Toolbelt (in the order I used/"learned" them):
 * **Assembly**  
@@ -98,5 +97,5 @@ As always, thanks for reading! Writing this took a whole night for me! (~6h)😅
 I hope you enjoyed this little glimpse into my life and interests.  
 If you have any questions, suggestions, feedback, or just want to chat, I’m here for you!  
 
-## I always appreciate feedback, as it helps me grow!  
+## I always appreciate feedback, as it helps me grow and improve!  
 ## HAVE A NICE DAY/NIGHT, WISH U THE BEST <3
