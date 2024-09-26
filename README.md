@@ -16,8 +16,9 @@
 🎮 Right now, most of my time I'm focusing on learning C++ and game development, as I'm excited to create my own games!
  ​ ​ ​ 
   ​ ​ ​ 
-## 🔭 I’m currently working on:
-Way too much! 😄 Most of my projects serve as a way to learn and improve my coding skills and language knowledge, especially in C++.
+## 🔭 I’m Currently Working On:
+Way too much! 😄 Some of my projects also serve as opportunities to learn and improve my coding skills and language knowledge, especially in C++.  
+Check it out: **[PROJECTS](https://github.com/Rx4Byte/Rx4Byte/blob/main/PROJECTS.md)**
  ​ ​ ​ 
   ​ ​ ​ 
 ## 🌱 I’m Currently Learning:
