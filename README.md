@@ -4,14 +4,14 @@
 👋 Hi there! I'm **Rx4Byte**, a passionate developer juggling multiple projects while continuously learning and expanding my skills.  
  ​ ​ ​  ​ ​ ​ I'm always on the lookout for new ways to improve and grow.  
 
-🌱 im always trying improve myself, so if u got feedback for me, dont hold it back!   
+🌱 I’m always trying improve myself, so if u got feedback for me, dont hold it back!   
 
-🚀 I thrive on challenges and love pushing my limits and to experiment.  
+🚀 I thrive on challenges, love pushing my limits, and experimenting.  
 
 🔧 Check out my public repositories to see what I'm working on!  
  ​ ​ ​  ​ ​ ​ _(Please note that many of my projects are currently private, but this will change in the future.)_
 
-😄 My work might be a bit unconventional, but im happy if u enjoing my work and if u want, u can support me <3  
+😄 My work might be a bit unconventional, but I'm happy if you're enjoying it! If you'd like to support me, I’d really appreciate it! <3
 
 🎮 Right now, most of my time I'm focusing on learning C++ and game development, as I'm excited to create my own games!
  ​ ​ ​ 
