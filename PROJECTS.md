@@ -1,4 +1,4 @@
-navigate back > [PROFILE README](https://github.com/Rx4Byte)
+**> [Navigate back to my profile](https://github.com/Rx4Byte) <**
 
 # 🔨 Projects I'm Working On & Future Projects
 **Let’s dive into some projects I’m currently working on and some I plan to build in the future!**
