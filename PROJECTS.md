@@ -32,6 +32,7 @@ _(some are temporarily paused)_
 
 ## 🚀 Future Projects:
 **Here are some projects I’m excited about and plan to start in the future:**  
+*These are just plans, and as with all plans, they can change over time.*
 
 * **PC Games**  
    **Description:** I'm still brainstorming, but I have many visions and ideas for PC games that I want to develop. Maybe I'll end up doing all of them!  
