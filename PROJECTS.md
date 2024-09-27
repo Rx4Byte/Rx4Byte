@@ -46,5 +46,5 @@ _(some are temporarily paused)_
    **Technologies:** C++
 
 * **3D Game Engine**  
-   **Description:** After creating my 2D game engine, I’ll attempt to build a 3D game engine. It’ll be challenging, but definitely an exciting and possible project!  
+   **Description:** After creating my 2D game engine, I may attempt to build a 3D game engine. It’ll be challenging, but definitely an exciting and possible project!  
    **Technologies:** C++
