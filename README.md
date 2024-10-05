@@ -68,7 +68,7 @@ I’m currently only reachable through Discord, so feel free to message and/or a
 * **C++**  
     My favorite language so far! I just started learning it a few weeks ago. 🚀✨
 
-
+<!--
 # Thoughts & Reflections
 ### Quotes, Statements:
 **I’m Not a Philosopher, But These Statements Ring True:**
@@ -76,7 +76,7 @@ I’m currently only reachable through Discord, so feel free to message and/or a
 * An idea is just the beginning. From it, you create a vision, and then you must take action!
 * Don’t just think—act and experiment!
 * No action means no results!
-
+-->
 
 ### Me:
 **Feel free to skip if you're not interested in my story—I’ll still like you and wish you the best, even if you’d be my nemesis!**  
